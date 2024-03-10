@@ -22,7 +22,7 @@ client.on('ready', async () => {
     .setName('Garena Free Fire')
     .setDetails('iPhone 13 Pro Max')
     .setStartTimestamp(Date.now()) 
-    .setAssetsLargeImage('https://media.discordapp.net/attachments/1086722226751013004/1216079182161776750/IMG_0599.png?ex=65ff14fe&is=65ec9ffe&hm=41537f28451d1ba4d9943b7b&') //ảnh lớn (dạng.png hoặc .gif)
+    .setAssetsLargeImage('FFicon') //ảnh lớn (dạng.png hoặc .gif)
     .setAssetsLargeText('img_0599')
     //.addButton('nameyourbutton1', 'https://discord.gg/')
     //.addButton('nameyourbutton2', 'https://www.facebook.com/')
