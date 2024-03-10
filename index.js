@@ -22,7 +22,7 @@ client.on('ready', async () => {
     .setName('Garena Free Fire')
     .setDetails('iPhone 13 Pro Max')
     .setStartTimestamp(Date.now()) 
-    .setAssetsLargeImage('FFicon') //ảnh lớn (dạng.png hoặc .gif)
+    .setAssetsLargeImage('fficon') //ảnh lớn (dạng.png hoặc .gif)
     .setAssetsLargeText('FFicone')
     //.addButton('nameyourbutton1', 'https://discord.gg/')
     //.addButton('nameyourbutton2', 'https://www.facebook.com/')
